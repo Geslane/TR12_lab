@@ -1,4 +1,4 @@
-# TR5_lab
+# TR12_lab
 Código referente ao trabalho 5, main teste.
 
 # Como baixar:
