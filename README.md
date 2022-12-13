@@ -9,7 +9,7 @@ No terminal deve estar indicado que você está dentro da pasta que se encontra 
 
 para compilar digite:
 
-gcc TR5_536892.c main_TR5 -o TR5
+gcc TR5_536892.c main_TR5.c -o TR5
 
 e para executar digite:
 
